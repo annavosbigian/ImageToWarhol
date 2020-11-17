@@ -8,11 +8,11 @@ Marylin: original, non-tinted & blue
 
 Luke Skywalker: original, orange & red
 ![Skywalker Original](/images/skywalker.png)
-![Skywalker Orange](/images/orange_warhol_skywalker.png)
-![Skywalker Red](/images/red_warhol_skywalker.png)
+![Skywalker Orange](/images/warhol_orange_skywalker.png)
+![Skywalker Red](/images/warhol_red_skywalker.png)
 
 Breakfast At Tiffanies: original, green & pink
 ![Hepburn Original](/images/hepburn.png)
-![Hepburn Green](/images/green_warhol_hepburn.png)
-![Hepburn Pink](/images/pink_warhol_hepburn.png)
+![Hepburn Green](/images/warhol_green_hepburn.png)
+![Hepburn Pink](/images/warhol_pink_hepburn.png)
 
